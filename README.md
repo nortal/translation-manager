@@ -1,0 +1,2 @@
+# translation-manager
+Combination of software utilities and methods to provide resource translations and management in centralized storage.  The main idea is store translations in centralized place easily accessible by any parties (professional translators, analysts, developers, ...). The solution provides set of utilities to synchronize data in central storage with local copies, where local copies may be stored in property files, database, Excel files and others.
